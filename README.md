@@ -1,4 +1,5 @@
-This project demonstrates a simulated Security Operations Centre (SOC) environment designed to practice threat detection, alert triage, and incident response using modern security tools in a cloud-based setup.
+This project demonstrates a simulated Security Operations Centre (SOC) environment designed to 
+practice threat detection, alert triage, and incident response using modern security tools in a cloud-based setup.
 
 🎯 Objectives
 
